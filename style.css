@@ -1,0 +1,14 @@
+<header>
+   <header class="cabecalho">
+   <img class="cabecalho-imagem" src="alurastar logo.pong" alt="logo da alura star">
+   <ul class="cabecalho-lista">
+       <li 
+ <header>
+.cabecalho {
+    backgroud-color:
+    color:
+    display: flex;
+    justify-content: space-around;
+    align-itens: center;
+    padding: 24px;
+}
